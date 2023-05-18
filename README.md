@@ -4,4 +4,4 @@ In this notebook, problem.ipynb, you are presented with a simple CNN that has so
 
 1. We recommend you to pull this repo and run it locally. 
 2. You may need to install the relevant dependencies depending on your local setup. 
-3. You can assume the code from the miniai library is correct. 
+3. You can assume the code from the miniai library is correct. You can also ignore the first three cells of the notebook. 
